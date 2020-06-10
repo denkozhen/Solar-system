@@ -1,0 +1,50 @@
+body {
+  background-image: url("images/background_site.jpg");
+  background-attachment: fixed;
+}
+#maintext {
+  color : #FFFF00;
+  font-size : 36px;
+  font-family: Lucida Console;
+  position: fixed;
+  top:16px;
+  left: 500px;
+  right: 500px;
+}
+
+#text{
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	line-height: 25px;
+	margin-left: 100px;
+	margin-right: 200px;
+	font-family: Lucida Console;
+}
+
+#head{
+	font-size: 30px;
+	margin-top: 10px;
+	font-family: Lucida Console;
+	color: orange;
+	text-align: center;
+}
+
+#news_text{
+	text-align: right;
+	font-size: 25px;
+	margin-top: 10px;
+	margin-left: 30px;
+	font-family: Lucida Console;
+}
+
+#img_text{
+	margin-left: 300px;
+}
+
+#text_about{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Lucida Console;
+}
